@@ -6,3 +6,7 @@ dir.o: dir.c
 
 run:
 	./program
+
+clean:
+	rm program
+	rm *.o
